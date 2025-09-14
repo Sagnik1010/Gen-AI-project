@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+streamlit
+requests
+langchain
+langchain-community
+cohere
+PyPDF2
+faiss-cpu
